@@ -17,7 +17,7 @@ ssh-keygen
 ```
 Cuando ejecutes el programa te va a preguntar si quieres generar una frase, identificar y como quieres nombrar la llave. Si no quieres complicarte solo da 3 veces ENTER, hasta tener una pantalla como la siguiente:
 
-<img = "pantalla.png">
+![pantalla](pantalla.png)
 
 Posteriormente, tendras una carpeta llamada `.ssh/`, entra en esa carpeta y tendras dos archivos, si no los renombraste tendran el nombre de `id_rsa`.
 
