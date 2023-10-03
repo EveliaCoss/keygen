@@ -67,7 +67,7 @@ ssh usuario@ruta.servidor
 ## Paso 3. Generar un alias en bashrc (opcional)
 
 - En linux y en Windows el archivo se llama `bashrc`
-- En iOS o Mac se llama `bashprofile`
+- En iOS o Mac se llama `bash_profile`
 
 Vamos a crear un `alias` para que cada que tu tecles una palabra entres al servidor sin problemas y sin usar tu contraseña.
 
