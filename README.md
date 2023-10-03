@@ -1,6 +1,6 @@
 # Generar llaves de seguridad
 
-Con esta llave no necesitaras usar nuevamente tu contraseña en los servidores que la contengan y mientras usando esa computadora.
+Con esta llave no necesitaras usar nuevamente tu contraseña en los servidores que la contengan y mientras estes usando esa computadora.
 
 Primero debes contar con una consola en lenguaje bash
 
