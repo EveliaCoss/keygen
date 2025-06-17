@@ -2,6 +2,11 @@
 title: "Generación y configuración de llaves SSH (keygen)"
 author: "Evelia Coss"
 date: last-modified
+
+project:
+  type: default
+  output-dir: docs
+  
 format: 
   html:
     toc: true
