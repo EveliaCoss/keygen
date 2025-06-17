@@ -4,8 +4,14 @@ Con esta llave no necesitaras usar nuevamente tu contraseña en los servidores q
 
 Primero debes contar con una consola en lenguaje bash
 
-- iOS y linux ya tienen terminales con este lenguaje incorporado en su sistema
+- OS y linux ya tienen terminales con este lenguaje incorporado en su sistema
 - Windows, necesitaras instalar una terminal, te recomiendo [MobaXterm](https://mobaxterm.mobatek.net/).
+
+
+> [!NOTE]  
+> Ya existe un manual con las informacion relacionado con este tema y los 
+> diferentes sistemas operativos Linux, Windows y Mac OS X.
+> Puedes dar click a este [link](https://eveliacoss.github.io/keygen/Manual_Keygen.html)
 
 ## Paso 1. Generar la llave en tu computadora
 
